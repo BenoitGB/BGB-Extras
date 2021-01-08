@@ -5,27 +5,26 @@ Extra electronics, software and C.A.D projects. You can see some examples hereun
 
 Some spare parts are available :  
 
-<div style="display:inline-block;width:100%">
-	<img src=".gitPages/Mecano_C876_Cust.png" style="float:left;width:200px;padding:10px">
+<table ><tr><td width="800px">
+	<img src=".gitPages/Mecano_C876_Cust.png" align="left" width="200px" >
 	<h4>Mecano C876 (custom)</h4>
 	Wheel for Mecano, made by using revolution approach.
-</div>
+</td></tr></table>
 
----
 
-<div style="display:inline-block;width:100%">
-	<img src=".gitPages/Mega_Blocks_Mater_Head.png" style="float:right;width:200px;padding:10px">
+<table ><tr><td width="800px">
+	<img src=".gitPages/Mega_Blocks_Mater_Head.png" align="right" width="200px">
 	<h4>Mater Head by Mega Blocks</h4>
 	Made under "Blender" using "Bevel" function.
-</div>
+</td></tr></table>
 
----
 
-<div style="display:inline-block;width:100%">
-	<img src=".gitPages/CAME_key.png" style="float:left;width:200px;padding:10px">
+
+<table ><tr><td width="800px">
+	<img src=".gitPages/CAME_key.png" align="left" width="200px">
 	<h4>CAME key</h4>
 	Can be useful in case of power cut. Made of 2 bodies.
-</div>
+</td></tr></table>
 
 
 ## Extra Softwares
@@ -33,8 +32,8 @@ Some spare parts are available :
 Training projects in many languages, including projects made during personal
 ["OpenClassRoom"](https://openclassrooms.com/) lessons.
 
-<div style="display:inline-block;width:100%">
-<img src=".gitPages/SortingDemo_v.png" style="float:left;width:200px;padding:10px">
+<table ><tr><td width="800px">
+<img src=".gitPages/SortingDemo_v.png" align="left" width="200px" >
 <h4>Sorting Demo</h4>
 <p>
 A <strong>Qt</strong> CrossCompile project for <strong>Android </strong>.
@@ -43,18 +42,16 @@ This project refers to strategy patterns for sorting methods (Sorting Strategy).
 </p>
 
 
-<img src=".gitPages/SortingDemo_h.png" style="width:300px;padding:10px">
+<img src=".gitPages/SortingDemo_h.png" width="300px" >
 
-</div>
+</td></tr></table>
 
----
-
-<div style="display:inline-block;width:100%">
-<img src=".gitPages/BgbFilmothek.png" style="float:left;width:200px;padding:10px">
+<table ><tr><td width="800px">
+<img src=".gitPages/BgbFilmothek.png" align="left" width="200px" >
 <h4>BGB-Filmothek</h4>
 A <strong>Angular</strong> Project made for <a hrfe="https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angulardeveloppez-des-applications-web-avec-angular">
 "Développez des applications Web avec Angular" </a> an OpenClassRoom lesson.
-</div>
+</td></tr></table>
 
 
 ## Extra Electronics
@@ -62,8 +59,8 @@ A <strong>Angular</strong> Project made for <a hrfe="https://openclassrooms.com/
 Little electronics projects for railway scales models or whatever stuff which can be useful.
 
 
-<div style="display:inline-block;width:100%">
-	<img src=".gitPages/Dcc NEM652 Socket.png" style="float:left;width:200px;padding:10px">
+<table ><tr><td width="800px">
+	<img src=".gitPages/Dcc NEM652 Socket.png"align="left" width="200px" >
 	<h4>Dcc NEM652 Socket</h4>
 	This is an 8-pin socket connector standard for DCC decoder.
-</div>
+</td></tr></table>
