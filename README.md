@@ -1,4 +1,4 @@
-# <img src=".gitPages/bgb_logo.png" width="50"/> BGB - Extras
+# <img src=".gitPages/github_bgt_extras.png" width="50"/> BGB - Extras
 Extra electronics, software and C.A.D projects. You can see some examples hereunder.
 
 ## Extra Computer Aided Design
